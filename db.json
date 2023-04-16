@@ -1,0 +1,95 @@
+{
+  "Menus": [
+    {
+      "id": "1",
+      "Name": "Spaghetti",
+      "Price": 120000,
+      "Quantity": 10
+    },
+    {
+      "id": "2",
+      "Name": "Pizza",
+      "Price": 130000,
+      "Quantity": 7
+    },
+    {
+      "id": "3",
+      "Name": "Hamburger",
+      "Price": 1000000,
+      "Quantity": 5
+    }
+  ],
+  "Users": [
+    {
+      "id": "2",
+      "Name": "Jane",
+      "Email": "jane@mail.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "Name": "Alex",
+      "Email": "alex@mail.com",
+      "age": "20"
+    },
+    {
+      "id": "4",
+      "Name": "Fery",
+      "Email": "fery@mail.com",
+      "age": "20"
+    },
+    {
+      "id": "6",
+      "Name": "Fikri",
+      "Email": "fikri@mail.com",
+      "age": "12"
+    },
+    {
+      "id": "7",
+      "Name": "Adam",
+      "Email": "adam@mail.com",
+      "age": "12"
+    },
+    {
+      "id": "1",
+      "Name": "Baim",
+      "Email": "baim@baim",
+      "age": "21"
+    }
+  ],
+  "Payments": [
+    {
+      "id": "3",
+      "Bankname": "Bank Mandiri",
+      "Cardnumber": 123456789
+    },
+    {
+      "id": "4",
+      "Bankname": "Bank Negara Indonesia",
+      "Cardnumber": 123456789
+    }
+  ],
+  "Employe": [
+    {
+      "id": "1",
+      "Name": "Employe1",
+      "Username": "Employe1",
+      "Email": "Employe1@mail.com",
+      "Phone": "08123456789"
+    },
+    {
+      "id": "2",
+      "Name": "Employe2",
+      "Username": "Employe2",
+      "Email": "Employe2@mail.com",
+      "Phone": "08123456789"
+    },
+    {
+      "id": "3",
+      "Name": "Employe3",
+      "Username": "Employe3",
+      "Email": "Employe3@mail.com",
+      "Phone": "08123456789"
+    }
+  ]
+}
